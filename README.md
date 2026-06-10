@@ -6,7 +6,7 @@
 # GenericContainer-Java-Demo
 Demonstration of generic programming concepts, including a custom GenericContainer class, generic method for array searching, and BTS-themed data management. Demonstrates OOP principles, generics, comparators, and collection operations
 
-#What it does
+# What it does
 - **IndexFinder.java** - Generic method to find index of any value in any array type
 - **GenericContainer.java** - Custom container with add, remove, get, size, sort, and print functions
 - **Demo apps** - Show the generic system working with Integer, String, Double arrays and BTS objects
